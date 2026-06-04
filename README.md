@@ -23,7 +23,10 @@ https://drive.google.com/drive/u/2/folders/1Rzlf_6S5zhozqg4NmzvPvpiyEvAeoLM5
    https://drive.google.com/file/d/158eDoL6rQOAzG-cyqmVySnSf9MUnDpOg/view?usp=drive_link
 
 ## 2) Meta Web-Description:
-https://profseifsekalala.wordpress.com/consulting/#MCC-Hope_Web-Meta-Description
+https://profseifsekalala.wordpress.com/consulting/#MCC-Hope_Web-Meta-Description 
+
+## 3) Related Work By Other Practitioners/Scholars 1; Cognitive Systems Engineering:
+https://github.com/lorin/cognitive-systems-engineering
 
 ---
 
